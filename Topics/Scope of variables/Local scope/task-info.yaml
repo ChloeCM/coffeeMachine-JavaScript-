@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A scope created for a new variable
+  - text: A scope with its variables accessible only outside the function
+  - text: A scope created for a block of code
+  - text: A scope with its variables accessible from anywhere in the program
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9772#comment
+status: Solved
+record: -1
+local_check: false
